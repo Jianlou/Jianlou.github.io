@@ -1,0 +1,206 @@
+/*basic formating*/
+
+body {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 300;
+    color: #333;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    border: 0.1em solid #fff;
+    border-radius: 0.3em;
+}
+
+img.inline-right {
+    display: block;
+    float: right;
+    margin: 10px 0 10px 10px;
+}
+
+img.inline-left {
+    display: block;
+    float: left;
+    margin: 10px 10px 10px 0;
+}
+
+strong {
+    font-weight: 500;
+}
+
+/*Headings*/
+
+h1, h2, h3, h4 {
+    font-family: "Julius Sans One", sans-serif;
+}
+h1 {
+    font-size: 2.1em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h1.header {
+    font-weight: bold;
+    font-size: 2.7em;
+    margin: 20px 0 0 0;
+}
+
+h3 a {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+/*layout*/
+.site-header {
+    border-top: 3px solid #333;
+}
+
+.page-content {
+    margin: 1em;
+    border-top: 1px solid #ddd;
+}
+
+footer {
+    border-top: 1px solid #ddd;
+}
+
+
+/*Navigation*/
+
+nav.topnav {
+    margin: 35px 0 0 0;
+}
+
+nav.topnav a:hover {
+    border-bottom: 3px solid #bbb;
+}
+
+nav.topnav a {
+    font-weight: 900;
+    font-family: "Julius Sans One", sans-serif;
+    font-size: 1.5em;
+    color: #00008B;
+    margin-left:1em;
+}
+
+nav.bottomnav a:hover {
+    border-bottom: 2px solid #bbb;
+}
+
+nav.bottomnav a {
+    font-weight: 600;
+    font-family: "Julius Sans One", sans-serif;
+    font-size: 0.9em;
+    color: #000;
+    margin-right: 1.2em;
+}
+
+nav.pagenav a:hover {
+    border-bottom: 2px solid #bbb;
+}
+
+nav.pagenav a {
+    font-weight: 600;
+    font-family: "Julius Sans One", sans-serif;
+    font-size: 1.5em;
+    color: #00008B;
+    margin-right: 1.2em;
+}
+/*Lists*/
+/*Blog Post List*/
+ul.posts {
+	list-style-type: none;
+	padding: 0;
+}
+
+ul.posts span {
+	color: #333;
+	font-family: 'Fira Mono', monospace, 'Courier New';
+	font-size: 100%;
+}
+
+ul.news {
+	list-style-type: none;
+	padding: 0;
+    font-size: 90%;
+}
+
+ul.news span {
+	color: #333;
+	font-family: 'Fira Mono', monospace, 'Courier New';
+	font-size: 90%;
+}
+ul.news li {
+    padding: 5px 0;
+}
+ol {
+  padding-left: 20px;
+}
+
+
+/*Misc*/
+blockquote {
+  font-style: italic;
+  padding-left: 15px;
+  border-left: 3px solid #333;
+}
+
+.MathJax {
+	font-size: 2em;
+}
+
+.MathJax .mo {
+  color: inherit;
+}
+
+.MathJax .mi {
+  color: inherit;
+}
+
+figcaption {
+    font-size: 95%;
+    font-style: italic;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+pre {
+  font-size: 1em;
+  line-height: 1.7em;
+}
+
+.profile {
+  text-align: center;
+
+}
+
+.meta {
+  font-family: 'Fira Mono', monospace, 'Courier New';
+}
+
+img.oa {
+    border: 0 none;
+    box-shadow: none;
+    display: inline;
+    margin: -2px 2px;
+}
+
+img.gallery {
+    height: 200px;
+}

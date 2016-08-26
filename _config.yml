@@ -1,0 +1,21 @@
+name: Jianlou Si
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+kramdown: 
+  input: GFM
+  syntax_highlighter: rouge
+
+#scholar:
+#  style: _plugins/american-chemical-society.csl
+#  locale: en
+#
+#  sort_by: none
+#  order: ascending
+#
+#  source: ./_bibliography
+#  bibliography: references.bib
+#  bibliography_template: page
+#
+#  details_dir:    publications
+#  details_layout: bibtex.html
+#  details_link:   Details
