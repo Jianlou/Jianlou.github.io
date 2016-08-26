@@ -9,12 +9,12 @@ categories:
 tags:
 - others
 ---
-This is my first blog!
-
-This is a test!
-
-# This is a test!
-
 # 人之初
 
-＃性本善
+## 性本善
+
+### 性相近
+
+#### 习相远
+
+苟不教，性乃迁
