@@ -4,34 +4,44 @@
 <div class="page-content">
 	<div class="grid">
 		<div class="unit w-1-1">
-			<h1>{{ page.title }}</h1>
-        	<p class="meta">{{ page.date | date_to_string }}</p>
+			<p align="center"><strong><font size="5" color="#8B4C39">{{ page.title }}</font></strong></p>
+        	<p class="meta" align="center">{{page.author}} -- {{ page.date | date:"%d/%m/%Y" }}</p>
 			<div class="post">
 				{{ content }}
 			</div>
-			<div class="categories">Categories: {{ page.categories | category_links }}</div>
-
-			<div class="comments">
-				<h3>Comments</h3>
-				{% if page.comments %}
-		    	<div id="disqus_thread"></div>
-		    	<script type="text/javascript">
-		        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-		        var disqus_shortname = 'sebspain'; // required: replace example with your forum shortname
-
-		        /* * * DON'T EDIT BELOW THIS LINE * * */
-		        (function() {
-		            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-		            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-		        })();
-		    	</script>
-		    	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-		    	<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-				{% else %}
-				<p>Comments are disabled on this post</p>
-				{% endif %}
+			<div class="grid">
+				<div class="unit w-4-5">
+			<div class="categories">
+				<font size="3" color="3CB371">[Categories:</font>
+				{% for category in page.categories%}
+					<font size="3" color="3CB371">{{category}},</font>
+				{% endfor %}
+				<font size="3" color="3CB371">]</font>
 			</div>
+		</div>
+		<div class="unit w-1-5">
+			<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_youdao" data-cmd="youdao" title="分享到有道云笔记"></a><a href="#" class="bds_evernotecn" data-cmd="evernotecn" title="分享到印象笔记"></a><a href="#" class="bds_linkedin" data-cmd="linkedin" title="分享到linkedin"></a><a href="#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a><a href="#" class="bds_twi" data-cmd="twi" title="分享到Twitter"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["tsina","weixin","youdao","evernotecn","linkedin","fbook","twi"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["tsina","weixin","youdao","evernotecn","linkedin","fbook","twi"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+		</div>
+	</div>
+
+<!-- 多说评论框 start -->
+	<div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="https://jianlou.github.io/{{page.url}}"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"jianlou2016"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- 多说公共JS代码 end -->
+
     	</div>
 	</div>
 </div>

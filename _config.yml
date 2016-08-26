@@ -4,6 +4,10 @@ markdown: kramdown
 kramdown: 
   input: GFM
   syntax_highlighter: rouge
+comments: 
+  provider: duoshuo
+  duoshuo: 
+    short_name: jianlou2016
 
 #scholar:
 #  style: _plugins/american-chemical-society.csl
