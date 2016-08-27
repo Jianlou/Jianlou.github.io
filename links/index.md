@@ -3,6 +3,7 @@ layout: page
 title: Links and Resources
 ---
 
+**Table of Contents**
 * auto-gen TOC:
 {:toc}
 

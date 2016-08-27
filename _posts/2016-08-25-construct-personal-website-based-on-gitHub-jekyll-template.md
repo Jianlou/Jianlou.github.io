@@ -9,6 +9,10 @@ tags: [GitHub, Jekyll]
 
 ---
 
+**Table of Contents**
+* auto-gen TOC:
+{:toc}
+
 ### 1. 配置GitHub
 
 ### 2. 配置本地Jekyll环境
