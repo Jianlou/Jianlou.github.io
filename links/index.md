@@ -23,7 +23,6 @@ title: Links and Resources
 2. [Visual Genome](https://visualgenome.org/): Visual Genome is a dataset, a knowledge base, an ongoing effort to connect structured image concepts to language.
 3. [MS-Celeb-1M](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/): Challenge of Recognizing One Million Celebrities in the Real World.
 4. **Person Re-Identification:** We list some datasets often used by researchers.
-
   - [VIPeR](https://vision.soe.ucsc.edu/node/178): The VIPeR dataset contains 632 pedestrian image pairs taken from arbitrary viewpoints under varying illumination conditions. Each image is scaled to 128x48 pixels.
   - [iLID-119](http://www.eecs.qmul.ac.uk/~jason/data/People_Groups_Ilids.zip): Dataset was captured at an airport arrival hall in the busy times under a multi-camera CCTV network. 476 person images for 119 pedestrians are extracted, most of which are with 4 images. All person images were normalized to 64×128 pixels.
   - [CAVIAR4REID](http://www.lorisbazzani.info/caviar4reid.html): Images of 72 pedestrians are captured in a shopping centre in Lisbon. 50 of them with both the camera views and the remaining 22 with one camera view. The minimum and maximum size of the images is 17 X 39 and 72 X 144, respectively. For each person we have a set of 5 or 10 images.
@@ -34,7 +33,6 @@ title: Links and Resources
   - [Partial-ReID](http://isee.sysu.edu.cn/files/resource/Partial-REID_Dataset.rar): The dataset includes 600 images of 60 people, with 5 full-body images and 5 partial images per person. 
   - [iLIDS-VID](http://www.eecs.qmul.ac.uk/~xz303/downloads_qmul_iLIDS-VID_ReID_dataset.html): The iLIDS-VID dataset comprises 600 image sequences of 300 distinct individuals, with one pair of image sequences from two camera views for each person.
   - [MARS](http://www.liangzheng.com.cn/Project/project_mars.html): MARS consists of 1,261 different pedestrians whom are captured by at least 2 cameras. MARS is an extension of the Market-1501 dataset.
-
 5. [Face Recognition Database](http://www.face-rec.org/databases/): In this website, some face data sets often used by researchers are listed.
 
 ## Toolbox & Open Source Lirary
