@@ -12,6 +12,8 @@ tags: [GitHub, Jekyll]
 * TOC
 {:toc}
 
+[TOC]
+
 ## 1. 配置GitHub
 
 ## 2. 配置本地Jekyll环境
