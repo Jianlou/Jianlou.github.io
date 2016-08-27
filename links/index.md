@@ -3,7 +3,8 @@ layout: page
 title: Links and Resources
 ---
 
-[TOC]
+* auto-gen TOC:
+{:toc}
 
 ## Deep learning resources
 1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
