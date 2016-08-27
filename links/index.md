@@ -21,6 +21,21 @@ title: Links and Resources
 ## Database and Chanllenge
 1. [ImageNet/ILSVRC](http://image-net.org/): ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. Currently we have an average of over five hundred images per node. Large Scale Visual Recognition Challenge.
 2. [Visual Genome](https://visualgenome.org/): Visual Genome is a dataset, a knowledge base, an ongoing effort to connect structured image concepts to language.
+3. [MS-Celeb-1M](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/): Challenge of Recognizing One Million Celebrities in the Real World.
+4. **Person Re-Identification:** We list some datasets often used by researchers.
+
+  - [VIPeR](https://vision.soe.ucsc.edu/node/178): The VIPeR dataset contains 632 pedestrian image pairs taken from arbitrary viewpoints under varying illumination conditions. Each image is scaled to 128x48 pixels.
+  - [iLID-119](http://www.eecs.qmul.ac.uk/~jason/data/People_Groups_Ilids.zip): Dataset was captured at an airport arrival hall in the busy times under a multi-camera CCTV network. 476 person images for 119 pedestrians are extracted, most of which are with 4 images. All person images were normalized to 64×128 pixels.
+  - [CAVIAR4REID](http://www.lorisbazzani.info/caviar4reid.html): Images of 72 pedestrians are captured in a shopping centre in Lisbon. 50 of them with both the camera views and the remaining 22 with one camera view. The minimum and maximum size of the images is 17 X 39 and 72 X 144, respectively. For each person we have a set of 5 or 10 images.
+  - [PRID 2011](https://lrs.icg.tugraz.at/datasets/prid/): The dataset consists of images extracted from multiple person trajectories recorded from two different, static surveillance cameras. Camera view A shows 385 persons, camera view B shows 749 persons. The first 200 persons appear in both camera views. Two versions of the dataset are provided, one representing the single-shot scenario and one representing the multi-shot scenario.
+  - [3DPES](http://www.openvisor.org/3dpes.asp): 1012 snapshot of 200 persons.
+  - [CUHK01/CUHK02/CUHK03](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html): CUHK01 dataset contains 971 identities from two disjoint camera views. Each identity has two samples per camera view. CUHK02 contains 1,816 persons and five pairs of camera views (P1-P5, ten camera views). CUHK03 includes 13,164 images of 1,360 pedestrians.
+  - [Market-1501](http://www.liangzheng.org/Project/project_reid.html): The Market-1501 dataset is collected in front of a supermarket in Tsinghua University. A total of six cameras are used, including 5 high-resolution cameras, and one low-resolution camera. Overlap exists among different cameras. Overall, this dataset contains 32,668 annotated bounding boxes of 1,501 identities.
+  - [Partial-ReID](http://isee.sysu.edu.cn/files/resource/Partial-REID_Dataset.rar): The dataset includes 600 images of 60 people, with 5 full-body images and 5 partial images per person. 
+  - [iLIDS-VID](http://www.eecs.qmul.ac.uk/~xz303/downloads_qmul_iLIDS-VID_ReID_dataset.html): The iLIDS-VID dataset comprises 600 image sequences of 300 distinct individuals, with one pair of image sequences from two camera views for each person.
+  - [MARS](http://www.liangzheng.com.cn/Project/project_mars.html): MARS consists of 1,261 different pedestrians whom are captured by at least 2 cameras. MARS is an extension of the Market-1501 dataset.
+
+5. [Face Recognition Database](http://www.face-rec.org/databases/): In this website, some face data sets often used by researchers are listed.
 
 ## Toolbox & Open Source Lirary
 1. [SPArse Modeling Software](http://spams-devel.gforge.inria.fr/): SPAMS (SPArse Modeling Software) is an optimization toolbox for solving various sparse estimation problems.
@@ -36,8 +51,9 @@ title: Links and Resources
 
 ## Learning Online
 1. [MLSS Machine Learning Summer Schools](http://mlss.cc/): The machine learning summer school series was started in 2002 with the motivation to promulgate modern methods of statistical machine learning and inference.
-
-
+2. [TechTalks.tv ](http://techtalks.tv/): Founded in 2011, TechTalks.tv allows thousands of people to publish, search and learn from slide-based videos, for free! Learn from the most respected and noteworthy experts on technology topics.
+3. [VideoLectures.NET](http://videolectures.net/): VideoLectures.NET is an award-winning free and open access educational video lectures repository. The lectures are given by distinguished scholars and scientists at the most important and prominent events like conferences, summer schools, workshops and science promotional events from many fields of Science. 
+4. [ValseWebinar](http://www.iqiyi.com/u/2289191062): 视觉与学习青年学者研讨会(Vision And Learning SEminar, 简称VALSE)的主要目标是为计算机视觉、图像处理、模式识别与机器学习等研究领域内的华人青年学者提供深入学术交流的舞台。
 
 
 
