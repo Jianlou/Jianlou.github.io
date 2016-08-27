@@ -4,7 +4,8 @@ title: Links and Resources
 ---
 
 **Table of Contents**
-* auto-gen TOC:
+
+* TOC:
 {:toc}
 
 ## Deep learning resources

@@ -9,10 +9,9 @@ tags: [GitHub, Jekyll]
 
 ---
 **Table of Contents**
+
 * TOC
 {:toc}
-
-[TOC]
 
 ## 1. 配置GitHub
 
