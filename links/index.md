@@ -12,7 +12,7 @@ title: Links and Resources
 1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
 2. ["Deep Learning", An MIT Press book Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 3. [Neural Networks and Deep Learning, a free online book, by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
-4. [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
+4. [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)/[Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
 5. [Caffe](http://caffe.berkeleyvision.org/)
 6. [Theano](http://deeplearning.net/software/theano/)
 7. [TensorFlow](https://www.tensorflow.org/)
@@ -53,8 +53,19 @@ title: Links and Resources
 2. [TechTalks.tv ](http://techtalks.tv/): Founded in 2011, TechTalks.tv allows thousands of people to publish, search and learn from slide-based videos, for free! Learn from the most respected and noteworthy experts on technology topics.
 3. [VideoLectures.NET](http://videolectures.net/): VideoLectures.NET is an award-winning free and open access educational video lectures repository. The lectures are given by distinguished scholars and scientists at the most important and prominent events like conferences, summer schools, workshops and science promotional events from many fields of Science. 
 4. [ValseWebinar](http://www.iqiyi.com/u/2289191062): 视觉与学习青年学者研讨会(Vision And Learning SEminar, 简称VALSE)的主要目标是为计算机视觉、图像处理、模式识别与机器学习等研究领域内的华人青年学者提供深入学术交流的舞台。
+5. [MIT 18.06 Linear Algebra](http://videolectures.net/mit1806s05_linear_algebra/): This course features a complete set of video lectures by Professor Gilbert Strang. This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
+6. [EE364a: Convex Optimization I](http://stanford.edu/class/ee364a/index.html)/[EE364b: Convex Optimization II](http://stanford.edu/class/ee364b/index.html)
+7. [斯坦福大学公开课 ：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
 
-
+## Open Bibliographic Information
+1. [JMLR](http://www.jmlr.org/): The Journal of Machine Learning Research (JMLR) provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. All published papers are freely available online.
+2. [TPAMI](https://www.computer.org/csdl/trans/tp/index.html): IEEE Transactions on Pattern Analysis & Machine Intelligence
+3. [CVPapers - Computer Vision Resource](http://www.cvpapers.com/)
+4. [Computer Vision Foundation open access](http://www.cv-foundation.org/openaccess/menu.py)
+5. [DBLP](http://dblp.uni-trier.de/): [TPAMI](http://dblp.uni-trier.de/db/journals/pami/index.html), [TIP](http://dblp.uni-trier.de/db/journals/tip/), [AI](http://dblp.uni-trier.de/db/journals/ai/index.html), [IJCV](http://dblp.uni-trier.de/db/journals/ijcv/index.html), [JMLR](http://dblp.uni-trier.de/db/journals/jmlr/index.html), [UAI](http://dblp.uni-trier.de/db/conf/uai/index.html), [AAAI](http://dblp.uni-trier.de/db/conf/aaai/index.html), [IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/index.html), [COLT](http://dblp.uni-trier.de/db/conf/colt/index.html), [ICML](http://dblp.uni-trier.de/db/conf/icml/index.html), [NIPS](http://dblp.uni-trier.de/db/conf/nips/index.html), [CVPR](http://dblp.uni-trier.de/db/conf/cvpr/index.html), [ICCV](http://dblp.uni-trier.de/db/conf/iccv/index.html), [ECCV](http://dblp.uni-trier.de/db/conf/eccv/index.html), [SIGIR](http://www.informatik.uni-trier.de/~ley/db/conf/sigir/index.html), [KDD](http://dblp.uni-trier.de/db/conf/kdd/index.html)
+6. [ICLR2013](https://sites.google.com/site/representationlearning2013/), [ICLR2014](http://www.iclr.cc/doku.php?id=iclr2014:start), [ICLR2015](http://www.iclr.cc/doku.php?id=iclr2015:main), [ICLR2016](http://www.iclr.cc/doku.php?id=iclr2016:main), [ICLR2017](http://www.iclr.cc/doku.php?id=iclr2017:main)
+7. [arXiv.org](http://arxiv.org/): [Artificial Intelligence](http://arxiv.org/list/cs.AI/recent), [Computer Vision and Pattern Recognition](http://arxiv.org/list/cs.CV/recent), [Learning](http://arxiv.org/list/cs.LG/recent), [Multimedia](http://arxiv.org/list/cs.MM/recent), [Neural and Evolutionary Computing](http://arxiv.org/list/cs.NE/recent), [Numerical Analysis](http://arxiv.org/list/cs.NA/recent), [Systems and Control](http://arxiv.org/list/cs.SY/recent), [Information Retrieval](http://arxiv.org/list/cs.IR/recent), [Information Theory](http://arxiv.org/list/cs.IT/recent), [Mathematics](), [](http://arxiv.org/archive/math), [Statistics](http://arxiv.org/archive/stat)
+8. [Library Genesis](http://gen.lib.rus.ec/): Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.
 
 
 
