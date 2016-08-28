@@ -10,13 +10,17 @@ title: Links and Resources
 
 ## Deep learning resources
 1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
-2. ["Deep Learning", An MIT Press book Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
-3. [Neural Networks and Deep Learning, a free online book, by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
-4. [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)/[Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
-5. [Caffe](http://caffe.berkeleyvision.org/)
-6. [Theano](http://deeplearning.net/software/theano/)
-7. [TensorFlow](https://www.tensorflow.org/)
-8. [MXNet](http://mxnet.io/)
+2. [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks): Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. Geoffrey Hinton, Professor.
+3. [Nando de Freita's class on Machine/Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+4. [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/): The course provides a deep excursion into cutting-edge research in deep learning applied to NLP. The final project will involve training a complex recurrent neural network and applying it to a large scale NLP problem. 
+5. ["Deep Learning", An MIT Press book Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
+6. [Neural Networks and Deep Learning, a free online book, by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
+7. [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)/[Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+8. [Caffe](http://caffe.berkeleyvision.org/)
+9. [Theano](http://deeplearning.net/software/theano/)
+10. [TensorFlow](https://www.tensorflow.org/)
+11. [MXNet](http://mxnet.io/)
+12. [Torch](http://torch.ch/): Torch is a scientific computing framework with wide support for machine learning algorithms that puts GPUs first. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.
 
 ## Database and Chanllenge
 1. [ImageNet/ILSVRC](http://image-net.org/): ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. Currently we have an average of over five hundred images per node. Large Scale Visual Recognition Challenge.
