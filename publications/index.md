@@ -29,7 +29,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
         	<img src="/publications/images/2016_NIDC.png">
         </div>
         <div class="unit w-2-3 center-on-mobiles align-left">
-        	<p>Hongli Zhang, Honggaang Zhang, <strong>Jianlou Si</strong>. "Fusing Multiple Statistical Features via Homogeneous Feature Mapping for Person Re-Identification". Accepted by IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC 2016).[PDF][code]</p>
+        	<p>Hongli Zhang, Honggaang Zhang, <strong>Jianlou Si</strong>. "Fusing Multiple Statistical Features via Homogeneous Feature Mapping for Person Re-Identification". Accepted by IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC 2016).[<a href="https://www.researchgate.net/publication/307168395_Fusing_Multiple_Statistical_Features_via_Explicit_Feature_Mapping_for_Person_Re-Identification">PDF</a>][code]</p>
         </div>
 </div>
 <p><strong><font size="5">[2015]</font></strong><p>
