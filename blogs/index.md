@@ -25,7 +25,7 @@ title: Blogs
         		<div class="unit w-3-4 center-on-mobiles align-left">
         			<ul class="posts">
 			    	{% for post in category.last %}
-			        	<font size="2"><li>[{{ post.date | date:"%d/%m/%Y"}}]&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li></font>
+			        	<font size="1"><li>[{{ post.date | date:"%d/%m/%Y"}}]&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li></font>
 			   		{% endfor %}
 					</ul>
         		</div>
