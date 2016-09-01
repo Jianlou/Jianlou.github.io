@@ -9,7 +9,7 @@ title: Links and Resources
 {:toc}
 
 ## Deep learning resources
-1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
+1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html)/[Video](https://www.youtube.com/playlist?list=PLLvH2FwAQhnpj1WEB-jHmPuUeQ8mX-XXG)
 2. [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks): Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. Geoffrey Hinton, Professor.
 3. [Nando de Freita's class on Machine/Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 4. [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/): The course provides a deep excursion into cutting-edge research in deep learning applied to NLP. The final project will involve training a complex recurrent neural network and applying it to a large scale NLP problem. 
@@ -60,6 +60,7 @@ title: Links and Resources
 5. [MIT 18.06 Linear Algebra](http://videolectures.net/mit1806s05_linear_algebra/): This course features a complete set of video lectures by Professor Gilbert Strang. This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
 6. [EE364a: Convex Optimization I](http://stanford.edu/class/ee364a/index.html)/[EE364b: Convex Optimization II](http://stanford.edu/class/ee364b/index.html)
 7. [斯坦福大学公开课 ：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
+8. ICML2016 Video OnLine: [Tutorials](http://techtalks.tv/icml/2016/tutorials/)/[Orals](http://techtalks.tv/icml/2016/orals/)/[Plenary](http://techtalks.tv/icml/2016/plenaries/)
 
 ## Open Bibliographic Information
 1. [JMLR](http://www.jmlr.org/): The Journal of Machine Learning Research (JMLR) provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. All published papers are freely available online.
