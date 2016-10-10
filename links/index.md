@@ -61,6 +61,7 @@ title: Links and Resources
 6. [EE364a: Convex Optimization I](http://stanford.edu/class/ee364a/index.html)/[EE364b: Convex Optimization II](http://stanford.edu/class/ee364b/index.html)
 7. [斯坦福大学公开课 ：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
 8. ICML2016 Video OnLine: [Tutorials](http://techtalks.tv/icml/2016/tutorials/)/[Orals](http://techtalks.tv/icml/2016/orals/)/[Plenary](http://techtalks.tv/icml/2016/plenaries/)
+9. [CVPR2016](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw)
 
 ## Open Bibliographic Information
 1. [JMLR](http://www.jmlr.org/): The Journal of Machine Learning Research (JMLR) provides an international forum for the electronic and paper publication of high-quality scholarly articles in all areas of machine learning. All published papers are freely available online.
