@@ -18,7 +18,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
         	<img src="/publications/images/2016_TSMC2.png">
         </div>
         <div class="unit w-2-3 center-on-mobiles align-left">
-        	<p><strong>Jianlou Si</strong>, Honggang Zhang, Chun-guang Li, Jun Guo. "Spatial Pyramid-Based Statistical Features for Person Reidentification: A Comprehensive Evaluation". Accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems (<strong>T SMC:systems</strong>).[PDF][code]</p>
+        	<p><strong>Jianlou Si</strong>, Honggang Zhang, Chun-guang Li, Jun Guo. "Spatial Pyramid-Based Statistical Features for Person Reidentification: A Comprehensive Evaluation". Accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems(<strong>T SMC:systems</strong>), 2017, DOI: 10.1109/TSMC.2016.2645660. [<a href="http://ieeexplore.ieee.org.ezlibproxy1.ntu.edu.sg/stamp/stamp.jsp?arnumber=7811218">PDF</a>][code]</p>
         </div>
 </div>
 
