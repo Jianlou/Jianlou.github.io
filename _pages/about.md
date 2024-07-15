@@ -18,11 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Senior Manager of R&D at [SenseTime](), working closely with [Chen Qian](). Before that, I finished a two-year joint post-doc of SenseTime and Chinese Academy of Sciences supervised by Prof. [Liang Wang](), from 2019 to 2021. 
+I am currently a Senior Manager of R&D at [SenseTime](https://www.sensetime.com/cn), working closely with [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en). Before that, I finished a two-year joint post-doc of SenseTime and CASIA supervised by Prof. [Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/), from 2019 to 2021. 
 
-I received my Ph.D. degree from the School of Information and Communication Engineering in BUPT, advised by Prof. [Honggang Zhang]() and [Chun-guang Li](), in 2018. I am also very hornored to be jointly supervised by Prof. [Wang Wang]() when visiting the NTU ROSE-Lab from 2016 to 2017, at Singapore. In 2012, I received my bachelor's degree in Telecommunications from JiLin University.
+I received my Ph.D. degree from the School of Information and Communication Engineering in BUPT, advised by Prof. [Honggang Zhang](https://teacher.bupt.edu.cn/zhanghonggang/zh_CN/index.htm) and [Chun-guang Li](https://teacher.bupt.edu.cn/cgli), in 2018. I am also very hornored to be jointly supervised by Prof. [Gang Wang](https://scholar.google.com/citations?user=NMhRWkIAAAAJ&hl=en) when visiting the NTU [ROSE-Lab](https://www.ntu.edu.sg/rose) from 2016 to 2017, at Singapore. In 2012, I received my bachelor's degree in Telecommunications from JiLin University.
 
-My primary research involves deep learning, machine learning and probabilistic graphical models, with particular interests in deep generative models, representation learning and structured prediction. With these tools, my research also covers applications in computer vision, image processing and data mining.
+My research interests include fundamental algorithms and application technologies in computer vision, computer graphics and machine learning.
+
 
 <!-- ** Job positions are open for researchers and interns at SenseTime! ** -->
 

@@ -1,9 +1,211 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+# 2024
+@misc{lu2024selfsupervisedvisiontransformerenhanced,
+      title={Self-Supervised Vision Transformer for Enhanced Virtual Clothes Try-On}, 
+      author={Lingxiao Lu and Shengyi Wu and Haoxuan Sun and Junhong Gou and Jianlou Si and Chen Qian and Jianfu Zhang and Liqing Zhang},
+      year={2024},
+      eprint={2406.10539},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.10539}, 
+}
+@misc{ouyang2024i2veditfirstframeguidedvideoediting,
+      title={I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models}, 
+      author={Wenqi Ouyang and Yi Dong and Lei Yang and Jianlou Si and Xingang Pan},
+      year={2024},
+      eprint={2405.16537},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.16537}, 
+      selected={true}
+}
 
-@book{einstein1920relativity,
+#2023
+@inproceedings{10.1145/3581783.3611934,
+author = {Chen, Jiamin and Si, Jianlou and Liu, Naihao and Wu, Yao and Niu, Li and Qian, Chen},
+title = {Object Part Parsing with Hierarchical Dual Transformer},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3611934},
+doi = {10.1145/3581783.3611934},
+abstract = {Object part parsing involves segmenting objects into semantic parts, which has drawn great attention recently. The current methods ignore the specific hierarchical structure of the object, which can be used as strong prior knowledge. To address this, we propose the Hierarchical Dual Transformer (HDTR) to explore the contribution of the typical structural priors of the object parts. HDTR first generates the pyramid multi-granularity pixel representations under the supervision of the object part parsing maps at different semantic levels and then assigns each region an initial part embedding. Moreover, HDTR generates an edge pixel representation to extend the capability of the network to capture detailed information. Afterward, we design a Hierarchical Part Transformer to upgrade the part embeddings to their hierarchical counterparts with the assistance of the multi-granularity pixel representations. Next, we propose a Hierarchical Pixel Transformer to infer the hierarchical information from the part embeddings to enrich the pixel representations. Note that both transformer decoders rely on the structural relations between object parts, i.e., dependency, composition, and decomposition relations. The experiments on five large-scale datasets, i.e., LaPa, CelebAMask-HQ, CIHP, LIP and Pascal Animal, demonstrate that our method sets a new state-of-the-art performance for object part parsing.},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {2016–2024},
+numpages = {9},
+keywords = {semantic segmentation, human parsing, face parsing, computer vision},
+location = {Ottawa ON, Canada},
+series = {MM '23}
+}
+@misc{gou2023virtualaccessorytryonkeypoint,
+      title={Virtual Accessory Try-On via Keypoint Hallucination}, 
+      author={Junhong Gou and Bo Zhang and Li Niu and Jianfu Zhang and Jianlou Si and Chen Qian and Liqing Zhang},
+      year={2023},
+      eprint={2310.17131},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2310.17131}, 
+}
+@inproceedings{10.1145/3581783.3612255,
+author = {Gou, Junhong and Sun, Siyu and Zhang, Jianfu and Si, Jianlou and Qian, Chen and Zhang, Liqing},
+title = {Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3612255},
+doi = {10.1145/3581783.3612255},
+abstract = {Virtual try-on is a critical image synthesis task that aims to transfer clothes from one image to another while preserving the details of both humans and clothes. While many existing methods rely on Generative Adversarial Networks (GANs) to achieve this, flaws can still occur, particularly at high resolutions. Recently, the diffusion model has emerged as a promising alternative for generating high-quality images in various applications. However, simply using clothes as a condition for guiding the diffusion model to inpaint is insufficient to maintain the details of the clothes. To overcome this challenge, we propose an exemplar-based inpainting approach that leverages a warping module to guide the diffusion model's generation effectively. The warping module performs initial processing on the clothes, which helps to preserve the local details of the clothes. We then combine the warped clothes with clothes-agnostic person image and add noise as the input of diffusion model. Additionally, the warped clothes is used as local conditions for each denoising process to ensure that the resulting output retains as much detail as possible. Our approach, namely Diffusion-based Conditional Inpainting for Virtual Try-ON(DCI-VTON), effectively utilizes the power of the diffusion model, and the incorporation of the warping module helps to produce high-quality and realistic virtual try-on results. Experimental results on VITON-HD demonstrate the effectiveness and superiority of our method. Source code and trained models will be publicly released at: https://github.com/bcmi/DCI-VTON-Virtual-Try-On.},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {7599–7607},
+numpages = {9},
+keywords = {appearance flow, diffusion models, high-resolution image synthesis, virtual try-on},
+location = {Ottawa ON, Canada},
+series = {MM '23},
+selected={true}
+}
+@ARTICLE{10187164,
+  author={Liu, Naihao and Li, Zhuo and Liu, Rongchang and Zhang, Haidong and Gao, Jinghuai and Wei, Tao and Si, Jianlou and Wu, Hao},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={ASHFormer: Axial and Sliding Window-Based Attention With High-Resolution Transformer for Automatic Stratigraphic Correlation}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-10},
+  keywords={Transformers;Correlation;Feature extraction;Task analysis;Computational modeling;Convolution;Natural language processing;Automatic stratigraphic correlation;convolutional neural networks (CNNs);self-attention;transformer},
+  doi={10.1109/TGRS.2023.3296934}}
+@article{Chen_Niu_Zhang_Si_Qian_Zhang_2023, 
+  title={Amodal Instance Segmentation via Prior-Guided Expansion}, 
+  volume={37}, 
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/25104}, 
+  DOI={10.1609/aaai.v37i1.25104}, 
+  abstractNote={Amodal instance segmentation aims to infer the amodal mask, including both the visible part and occluded part of each object instance. Predicting the occluded parts is challenging. Existing methods often produce incomplete amodal boxes and amodal masks, probably due to lacking visual evidences to expand the boxes and masks. To this end, we propose a prior-guided expansion framework, which builds on a two-stage segmentation model (i.e., Mask R-CNN) and performs box-level (resp., pixel-level) expansion for amodal box (resp., mask) prediction, by retrieving regression (resp., flow) transformations from a memory bank of expansion prior. We conduct extensive experiments on KINS, D2SA, and COCOA cls datasets, which show the effectiveness of our method.}, 
+  number={1}, 
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  author={Chen, Junjie and Niu, Li and Zhang, Jianfu and Si, Jianlou and Qian, Chen and Zhang, Liqing}, 
+  year={2023}, 
+  month={Jun.}, 
+  pages={313-321} }
+
+#2022
+@inproceedings{NEURIPS2022_d148494b,
+ author = {Chen, Junjie and Niu, Li and Zhou, Siyuan and Si, Jianlou and Qian, Chen and Zhang, Liqing},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+ pages = {32525--32536},
+ publisher = {Curran Associates, Inc.},
+ title = {Weak-shot Semantic Segmentation via Dual Similarity Transfer},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/d148494b18160a30b14851655208c9c1-Paper-Conference.pdf},
+ volume = {35},
+ year = {2022}
+}
+
+#2021
+@inproceedings{10.1145/3474085.3475409,
+author = {Li, Jiangtong and Wang, Wentao and Chen, Junjie and Niu, Li and Si, Jianlou and Qian, Chen and Zhang, Liqing},
+title = {Video Semantic Segmentation via Sparse Temporal Transformer},
+year = {2021},
+isbn = {9781450386517},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3474085.3475409},
+doi = {10.1145/3474085.3475409},
+abstract = {Currently, video semantic segmentation mainly faces two challenges: 1) the demand of temporal consistency; 2) the balance between segmentation accuracy and inference efficiency. For the first challenge, existing methods usually use optical flow to capture the temporal relation in consecutive frames and maintain the temporal consistency, but the low inference speed by means of optical flow limits the real-time applications. For the second challenge, flow based key frame warping is one mainstream solution. However, the unbalanced inference latency of flow-based key frame warping makes it unsatisfactory for real-time applications. Considering the segmentation accuracy and inference efficiency, we propose a novel Sparse Temporal Transformer (STT) to bridge temporal relation among video frames adaptively, which is also equipped with query selection and key selection. The key selection and query selection strategies are separately applied to filter out temporal and spatial redundancy in our temporal transformer. Specifically, our STT can reduce the time complexity of temporal transformer by a large margin without harming the segmentation accuracy and temporal consistency. Experiments on two benchmark datasets, Cityscapes and Camvid, demonstrate that our method achieves the state-of-the-art segmentation accuracy and temporal consistency with comparable inference speed.},
+booktitle = {Proceedings of the 29th ACM International Conference on Multimedia},
+pages = {59–68},
+numpages = {10},
+keywords = {video semantic segmentation, transformer, temporal consistency, semi-supervised learning, semantic segmentation},
+location = {Virtual Event, China},
+series = {MM '21}
+}
+
+#2020
+@inproceedings{10.1145/3394171.3414035,
+author = {Wen, Peisong and Yang, Ruolin and Xu, Qianqian and Qian, Chen and Huang, Qingming and Cong, Runmin and Si, Jianlou},
+title = {DMVOS: Discriminative Matching for Real-time Video Object Segmentation},
+year = {2020},
+isbn = {9781450379885},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3394171.3414035},
+doi = {10.1145/3394171.3414035},
+abstract = {Though recent methods on semi-supervised video object segmentation (VOS) have achieved an appreciable improvement of segmentation accuracy, it is still hard to get an adequate speed-accuracy balance when facing real-world application scenarios. In this work, we propose Discriminative Matching for real-time Video Object Segmentation (DMVOS), a real-time VOS framework with high-accuracy to fill this gap. Based on the matching mechanism, our framework introduces discriminative information through the Isometric Correlation module and the Instance Center Offset module. Specifically, the isometric correlation module learns a pixel-level similarity map with semantic discriminability, and the instance center offset module is applied to exploit the instance-level spatial discriminability. Experiments on two benchmark datasets show that our model achieves state-of-the-art performance with extremely fast speed, for example, J&F of 87.8\% on DAVIS-2016 validation set with 35 milliseconds per frame.},
+booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
+pages = {2048–2056},
+numpages = {9},
+keywords = {video object segmentation, real-time tracker, isometric matching, instance center offset},
+location = {Seattle, WA, USA},
+series = {MM '20}
+}
+
+#2019
+
+#2018
+@InProceedings{Si_2018_CVPR,
+author = {Si, Jianlou and Zhang, Honggang and Li, Chun-Guang and Kuen, Jason and Kong, Xiangfei and Kot, Alex C. and Wang, Gang},
+title = {Dual Attention Matching Network for Context-Aware Feature Sequence Based Person Re-Identification},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2018},
+selected={true}
+}
+
+#2017
+@ARTICLE{7811218,
+  author={Si, Jianlou and Zhang, Honggang and Li, Chun-Guang and Guo, Jun},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={Spatial Pyramid-Based Statistical Features for Person Re-Identification: A Comprehensive Evaluation}, 
+  year={2018},
+  volume={48},
+  number={7},
+  pages={1140-1154},
+  keywords={Feature extraction;Cameras;Image color analysis;Encoding;Pipelines;Measurement;Kernel;Multiple kernel local Fisher discriminant analysis (mkLFDA);person re-identification (Re-Id);spatial pyramid-based statistical features},
+  doi={10.1109/TSMC.2016.2645660}}
+
+#2016
+@INPROCEEDINGS{7974599,
+  author={Zhang, Hongli and Zhang, Honggang and Si, Jianlou},
+  booktitle={2016 IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC)}, 
+  title={Fusing multiple statistical features via explicit feature mapping for person re-identification}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={371-375},
+  keywords={Feature fusion;Feature mapping;Person re-identification},
+  doi={10.1109/ICNIDC.2016.7974599}}
+
+#2015
+@INPROCEEDINGS{7351214,
+  author={Si, Jianlou and Zhang, Honggang and Li, Chun-Guang},
+  booktitle={2015 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Regularization in metric learning for person re-identification}, 
+  year={2015},
+  volume={},
+  number={},
+  pages={2309-2313},
+  keywords={Measurement;Feature extraction;Learning systems;Training data;Benchmark testing;Cameras;Proposals;Person Re-identification;Metric Learning;Regularization},
+  doi={10.1109/ICIP.2015.7351214}}
+
+#2014
+@INPROCEEDINGS{7051551,
+  author={Si, Jianlou and Zhang, Honggang and Li, Chun-Guang},
+  booktitle={2014 IEEE Visual Communications and Image Processing Conference}, 
+  title={Person re-identification via region-of-interest based features}, 
+  year={2014},
+  volume={},
+  number={},
+  pages={249-252},
+  keywords={Feature extraction;Cameras;Histograms;Computer vision;Conferences;Image color analysis;Lighting;Color;Multi-camera;Person re-identification;Region-of-Interest;Texture},
+  doi={10.1109/VCIP.2014.7051551}}
+
+#2013
+
+string{aps = {American Physical Society,}}
+
+book{einstein1920relativity,
   title={Relativity: the Special and General Theory},
   author={Einstein, Albert},
   year={1920},
@@ -11,7 +213,7 @@
   html={relativity.html}
 }
 
-@book{einstein1956investigations,
+book{einstein1956investigations,
   bibtex_show={true},
   title={Investigations on the Theory of the Brownian Movement},
   author={Einstein, Albert},
@@ -20,7 +222,7 @@
   preview={brownian-motion.gif}
 }
 
-@article{einstein1950meaning,
+article{einstein1950meaning,
   abbr={AJP},
   bibtex_show={true},
   title={The meaning of relativity},
@@ -33,7 +235,7 @@
   publisher={American Association of Physics Teachers}
 }
 
-@article{PhysRev.47.777,
+article{PhysRev.47.777,
   abbr={PhysRev},
   title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
   author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
@@ -60,7 +262,7 @@
   selected={true}
 }
 
-@article{einstein1905molekularkinetischen,
+article{einstein1905molekularkinetischen,
   title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
   author={Einstein, A.},
   journal={Annalen der physik},
@@ -71,7 +273,7 @@
   publisher={Wiley Online Library}
 }
 
-@article{einstein1905movement,
+article{einstein1905movement,
   abbr={Ann. Phys.},
   title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
   author={Einstein, A.},
@@ -81,13 +283,13 @@
   year={1905}
 }
 
-@article{einstein1905electrodynamics,
+article{einstein1905electrodynamics,
   title={On the electrodynamics of moving bodies},
   author={Einstein, A.},
   year={1905}
 }
 
-@Article{einstein1905photoelectriceffect,
+Article{einstein1905photoelectriceffect,
   bibtex_show={true},
   abbr={Ann. Phys.},
   title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
@@ -103,7 +305,7 @@
   award_name={Nobel Prize}
 }
 
-@book{przibram1967letters,
+book{przibram1967letters,
   bibtex_show={true},
   title={Letters on wave mechanics},
   author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
