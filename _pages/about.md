@@ -22,7 +22,7 @@ I am currently a Senior Manager of R&D at [SenseTime](https://www.sensetime.com/
 
 I received my Ph.D. degree from the School of Information and Communication Engineering in BUPT, advised by Prof. [Honggang Zhang](https://teacher.bupt.edu.cn/zhanghonggang/zh_CN/index.htm) and [Chun-guang Li](https://teacher.bupt.edu.cn/cgli), in 2018. I am also very hornored to be jointly supervised by Prof. [Gang Wang](https://scholar.google.com/citations?user=NMhRWkIAAAAJ&hl=en) when visiting the NTU [ROSE-Lab](https://www.ntu.edu.sg/rose) from 2016 to 2017, at Singapore. In 2012, I received my bachelor's degree in Telecommunications from JiLin University.
 
-My research interests include fundamental algorithms and application technologies in computer vision, computer graphics and machine learning.
+My research interests include fundamental algorithms and application technologies in computer vision, computer graphics and machine learning. Leveraging these tools, we have delivered several industrail AI products focused on Human Perception and Editting. Moving forward, amidst the technological trends of large models, I will continue to delve into more universal multi-modal perception, generation, and interaction technologies.
 
 
 <!-- ** Job positions are open for researchers and interns at SenseTime! ** -->
