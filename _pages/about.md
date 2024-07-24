@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Senior Manager of R&D at [SenseTime](https://www.sensetime.com/cn), working closely with [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en). Before that, I finished a two-year joint post-doc of SenseTime and CASIA supervised by Prof. [Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/), from 2019 to 2021. 
+I am currently a Senior Manager of R&D at [SenseTime](https://www.sensetime.com/cn), working closely with [Ziwei Liu](https://scholar.google.com.hk/citations?user=lc45xlcAAAAJ&hl=en) and [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en). Before that, I finished a two-year joint post-doc of SenseTime and CASIA supervised by Prof. [Liang Wang](http://www.cbsr.ia.ac.cn/users/liangwang/), from 2019 to 2021. 
 
 I received my Ph.D. degree from the School of Information and Communication Engineering in BUPT, advised by Prof. [Honggang Zhang](https://teacher.bupt.edu.cn/zhanghonggang/zh_CN/index.htm) and [Chun-guang Li](https://teacher.bupt.edu.cn/cgli), in 2018. I am also very hornored to be jointly supervised by Prof. [Gang Wang](https://scholar.google.com/citations?user=NMhRWkIAAAAJ&hl=en) when visiting the NTU [ROSE-Lab](https://www.ntu.edu.sg/rose) from 2016 to 2017, at Singapore. In 2012, I received my bachelor's degree in Telecommunications from JiLin University.
 

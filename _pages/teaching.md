@@ -32,6 +32,17 @@ h3 {
     </ul>    
 </div>
 
+<h3>Thesis, Technical Reports and Slids</h3>
+<div>
+    <ul>
+        <li>
+            <img src="./assets/img/publication_preview/DuATM.png" alt="Thumbnail" width="100" height="100">
+            Author Name, 
+            "<a href="./assets/pdf/DoctoralDissertation.pdf">Title of the Publication</a>", 
+            Publisher, Year.
+        </li>
+    </ul>    
+</div>
 
 
 <!-- <h3>Selected Publicity</h3>
