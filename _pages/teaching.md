@@ -18,10 +18,19 @@ h3 {
   margin-right: 0;
   font-weight: bold;
 }
+
+/* 隐藏 head 的样式 */
+.hide-head header {
+  display: none;
+}
 </style>
 </head>
 
 <body>
+<header>
+  <!-- 头部内容 -->
+</header>
+
 <h3>Academic Services</h3>
 <div>
     <ul>
@@ -63,22 +72,14 @@ function openModal(imgSrc) {
     var modal = document.getElementById('imageModal');
     var modalImg = document.getElementById("modalImage");
     modalImg.src = imgSrc;
-    modal.style.display = "flex"; // Changed from "block" to "flex"
+    modal.style.display = "flex";
+    document.body.classList.add('hide-head'); // 隐藏 head
 }
 
 function closeModal() {
     var modal = document.getElementById('imageModal');
     modal.style.display = "none";
+    document.body.classList.remove('hide-head'); // 显示 head
 }
 </script>
 </body>
-
-
-
-
-
-
-
-
-
-
