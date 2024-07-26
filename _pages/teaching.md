@@ -36,17 +36,17 @@ h3 {
 <div>
     <ul>
         <li>
-            <img src="../assets/pdf/PostdoctoralFellowshipCompletionReport.png" alt="Thumbnail" width="100" height="100" onclick="openModal()">
+            <img src="../assets/pdf/PostdoctoralFellowshipCompletionReport.png" alt="Thumbnail" width=auto height="100" onclick="openModal()">
             "<a href="../assets/pdf/PostdoctoralFellowshipCompletionReport.pdf">基于辅助知识的图像/视频分割算法研究</a>", 
             报告, 2021.
         </li>
         <li>
-            <img src="../assets/pdf/DoctoralDissertation.png" alt="Thumbnail" width="100" height="100" onclick="openModal()">
+            <img src="../assets/pdf/DoctoralDissertation.png" alt="Thumbnail" width=auto height="100" onclick="openModal()">
             "<a href="../assets/pdf/DoctoralDissertation.pdf">智能视觉监控中行人再识别技术研究</a>", 
             学位论文, 2018.
         </li>
         <li>
-            <img src="../assets/pdf/DoctoralPresentation.png" alt="Thumbnail" width="100" height="100" onclick="openModal()">
+            <img src="../assets/pdf/DoctoralPresentation.png" alt="Thumbnail" width=auto height="100" onclick="openModal()">
             "<a href="../assets/pdf/DoctoralPresentation.pdf">智能视觉监控中行人再识别技术研究</a>", 
             学位报告, 2018.
         </li>
