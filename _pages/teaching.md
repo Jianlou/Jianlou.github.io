@@ -36,10 +36,19 @@ h3 {
 <div>
     <ul>
         <li>
-            <img src="./assets/img/publication_preview/DuATM.png" alt="Thumbnail" width="100" height="100">
-            Author Name, 
-            "<a href="./assets/pdf/DoctoralDissertation.pdf">Title of the Publication</a>", 
-            Publisher, Year.
+            <img src="../assets/pdf/PostdoctoralFellowshipCompletionReport.png" alt="Thumbnail" width="100" height="100">
+            "<a href="../assets/pdf/PostdoctoralFellowshipCompletionReport.pdf">基于辅助知识的图像/视频分割算法研究</a>", 
+            博士后出站报告, 2021.
+        </li>
+        <li>
+            <img src="../assets/pdf/DoctoralDissertation.png" alt="Thumbnail" width="100" height="100">
+            "<a href="../assets/pdf/DoctoralDissertation.pdf">智能视觉监控中行人再识别技术研究</a>", 
+            博士学位论文, 2018.
+        </li>
+        <li>
+            <img src="../assets/pdf/DoctoralPresentation.png" alt="Thumbnail" width="100" height="100">
+            "<a href="../assets/pdf/DoctoralPresentation.pdf">智能视觉监控中行人再识别技术研究</a>", 
+            博士学位报告, 2018.
         </li>
     </ul>    
 </div>
