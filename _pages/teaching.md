@@ -36,23 +36,42 @@ h3 {
 <div>
     <ul>
         <li>
-            <img src="../assets/pdf/PostdoctoralFellowshipCompletionReport.png" alt="Thumbnail" width="100" height="100">
+            <img src="../assets/pdf/PostdoctoralFellowshipCompletionReport.png" alt="Thumbnail" width="100" height="100" onclick="openModal()">
             "<a href="../assets/pdf/PostdoctoralFellowshipCompletionReport.pdf">基于辅助知识的图像/视频分割算法研究</a>", 
-            博士后出站报告, 2021.
+            报告, 2021.
         </li>
         <li>
-            <img src="../assets/pdf/DoctoralDissertation.png" alt="Thumbnail" width="100" height="100">
+            <img src="../assets/pdf/DoctoralDissertation.png" alt="Thumbnail" width="100" height="100" onclick="openModal()">
             "<a href="../assets/pdf/DoctoralDissertation.pdf">智能视觉监控中行人再识别技术研究</a>", 
-            博士学位论文, 2018.
+            学位论文, 2018.
         </li>
         <li>
-            <img src="../assets/pdf/DoctoralPresentation.png" alt="Thumbnail" width="100" height="100">
+            <img src="../assets/pdf/DoctoralPresentation.png" alt="Thumbnail" width="100" height="100" onclick="openModal()">
             "<a href="../assets/pdf/DoctoralPresentation.pdf">智能视觉监控中行人再识别技术研究</a>", 
-            博士学位报告, 2018.
+            学位报告, 2018.
         </li>
     </ul>    
 </div>
 
+<!-- Modal -->
+<div id="imageModal" style="display:none;">
+    <span onclick="closeModal()" style="cursor:pointer;">&times;</span>
+    <img id="modalImage" style="width:100%;">
+</div>
+
+<script>
+function openModal() {
+    var modal = document.getElementById('imageModal');
+    var modalImg = document.getElementById("modalImage");
+    modalImg.src = '../assets/pdf/PostdoctoralFellowshipCompletionReport.png';
+    modal.style.display = "block";
+}
+
+function closeModal() {
+    var modal = document.getElementById('imageModal');
+    modal.style.display = "none";
+}
+</script>
 
 <!-- <h3>Selected Publicity</h3>
 <div>
